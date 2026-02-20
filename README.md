@@ -17,8 +17,8 @@
 
 ## 🚀 Featured Projects
 
-- <img src="https://cdn.simpleicons.org/atom/61DAFB" width="16" height="16" alt="atom" /> **[SwarmX](https://github.com/Arbazxkr/SwarmX)** – AI agents, working together. Build and coordinate multiple AI agents as one structured system
-- 🌊 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking
+- ⚛ **[SwarmX](https://github.com/Arbazxkr/SwarmX)** – AI agents, working together. Build and coordinate multiple AI agents as one structured system
+- 🧨 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking
 - ⚡ **[FlashChecker](https://github.com/arbazxkr/flashchecker)** – Multi-chain USDT deposit verification engine (ETH, BSC, Tron, Solana) with HD wallets & sweep daemon
 - 🏥 **[BookLine](https://github.com/arbazxkr/BookLine)** – WhatsApp-native clinic booking system with Razorpay payments & atomic queue management
 - 🧠 **[LYFE](https://github.com/arbazxkr/lyfe)** – AI-powered journaling & thought partner app (Gemini + Groq, multi-modal, real-time streaming)
