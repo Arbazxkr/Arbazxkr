@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Projects
 
-- ⚛ **[SwarmX](https://github.com/Arbazxkr/SwarmX)** – AI agents, working together. Build and coordinate multiple AI agents as one structured system
+- 🫧 **[Groklets](https://github.com/Arbazxkr/Groklets)** – AI agents, working together. Build and coordinate multiple AI agents as one structured system
 - 🧨 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking
 - ⚡ **[FlashChecker](https://github.com/arbazxkr/flashchecker)** – Multi-chain USDT deposit verification engine (ETH, BSC, Tron, Solana) with HD wallets & sweep daemon
 - 🏥 **[BookLine](https://github.com/arbazxkr/BookLine)** – WhatsApp-native clinic booking system with Razorpay payments & atomic queue management
