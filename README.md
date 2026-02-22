@@ -17,6 +17,7 @@
 
 ## 🚀 Featured Projects
 
+- 💼 **[HireKit](https://github.com/Arbazxkr/Hirekit)** – AI job assistant, ATS resume builder, auto-apply & Razorpay payments · [Live →](https://megusta.world)
 - 🫧 **[Groklets](https://github.com/Arbazxkr/Groklets)** – AI agents, working together. Build and coordinate multiple AI agents as one structured system
 - 🧨 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking
 - ⚡ **[FlashChecker](https://github.com/arbazxkr/flashchecker)** – Multi-chain USDT deposit verification engine (ETH, BSC, Tron, Solana) with HD wallets & sweep daemon
