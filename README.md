@@ -1,6 +1,6 @@
 # Hi, I'm Arbaz 👋
 
-📍 **West Bengal, India** | ⚡ **Web2 & Web3 Builder** | 🎓 **Computer Applications @ Adamas University**
+📍 **Kolkata, India** | ⚡ **Web2 & Web3 Builder** | 🎓 **Computer Applications @ Adamas University**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -13,16 +13,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-> Deep in vibe-coding mode — building Web3 protocols, AI-powered apps, and multi-chain payment systems at full speed. From bonding curves in Rust to WhatsApp chatbots, I ship ideas end-to-end.
+> Deep in vibe-coding mode building protocols, AI-powered apps, and multi-chain payment systems at full speed.I ship ideas end-to-end.
 
 ## 🚀 Featured Projects
 
-- 💼 **[HireKit](https://github.com/Arbazxkr/Hirekit)** – AI job assistant, ATS resume builder, auto-apply & Razorpay payments · [Live →](https://megusta.world)
-- 🫧 **[Groklets](https://github.com/Arbazxkr/Groklets)** – AI agents, working together. Build and coordinate multiple AI agents as one structured system
-- 🧨 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking · [Live →](https://trustfun.xyz)
-- ⚡ **[FlashChecker](https://github.com/arbazxkr/flashchecker)** – Multi-chain USDT deposit verification engine (ETH, BSC, Tron, Solana) with HD wallets & sweep daemon · [Live →](https://flashchecker.in)
+- 🧨 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking
+- ⚡ **[FlashChecker](https://github.com/arbazxkr/flashchecker)** – Multi-chain USDT deposit verification engine (ETH, BSC, Tron, Solana) with HD wallets & sweep daemon
 - 🏥 **[BookLine](https://github.com/arbazxkr/BookLine)** – WhatsApp-native clinic booking system with Razorpay payments & atomic queue management
-- 🧠 **[LYFE](https://github.com/arbazxkr/lyfe)** – AI-powered journaling & thought partner app (Gemini + Groq, multi-modal, real-time streaming)
 
 ## 🛠 What I Build
 
