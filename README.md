@@ -18,6 +18,8 @@
 ## 🚀 Featured Projects
 
 - 🧨 **[TrustFUN](https://github.com/arbazxkr/trustfun-v1)** – Fair launch platform on Solana with bonding curves, Raydium AMM migration & automated liquidity locking
+- ⚡ **[TrustFUN NATS Server](https://github.com/arbazxkr/trustfun-nats-server)** – High-performance messaging and state sync for TrustFUN architecture
+- 🤖 **[Groklets](https://github.com/Arbazxkr/Groklets)** – Fast and intelligent AI applets using Groq
 - ⚡ **[FlashChecker](https://github.com/arbazxkr/flashchecker)** – Multi-chain USDT deposit verification engine (ETH, BSC, Tron, Solana) with HD wallets & sweep daemon
 - 🏥 **[BookLine](https://github.com/arbazxkr/BookLine)** – WhatsApp-native clinic booking system with Razorpay payments & atomic queue management
 
