@@ -12,7 +12,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-> Deep in vibe-coding mode building protocols, AI-powered apps, and multi-chain payment systems at full speed.I ship ideas end-to-end.
 
 ## 🚀 Featured Projects
 
