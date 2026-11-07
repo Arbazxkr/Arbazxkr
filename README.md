@@ -1,8 +1,6 @@
 # Arbaz
 
-I build production systems where a mistake costs someone money or a doctor's visit.
-
-Right now that is [BookLine](https://github.com/arbazxkr/BookLine), healthcare booking on WhatsApp in Kharagpur.
+Building [BookLine](https://github.com/arbazxkr/BookLine), doctor booking and medicine delivery in Kharagpur, on WhatsApp and our Android app. I also build on Solana.
 
 ## Projects
 
